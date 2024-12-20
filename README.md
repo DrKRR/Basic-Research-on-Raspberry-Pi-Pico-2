@@ -24,7 +24,7 @@ The hardware circuit diagram to carry out the study on the Dormant mode of Raspb
 <p align="center"><img src="https://github.com/user-attachments/assets/ef1d2933-f4c9-4c3b-a1cc-de8d4fa38954"width="450"height="540">
 
 
-The Arduino program is attched as a file in this repository: Rasp_Pi_Pico_2_DOR_ARD.ino
+The Arduino program is attched as a file in this repository: Rasp_Pi_Pico_2_DOR_Test.ino
 
 
 
