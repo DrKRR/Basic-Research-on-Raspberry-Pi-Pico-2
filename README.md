@@ -1,5 +1,5 @@
 # Basic-Research-on-Raspberry-Pi-Pico-2
-Raspberry Pi Pico 2, introduced by Raspberry Pi foundation had new features incorporated in the microcontroller: RP2350. Some of these features include the following:
+Raspberry Pi Pico 2, introduced by Raspberry Pi foundation had new features incorporated in the microcontroller: RP2350. Some of these features include the following [Ref](https://www.raspberrypi.com/news/whats-new-in-pico-2/):
 * Dual ARM Cortex-M33 cores, an upgrade of M0+ cores of RP2040
 * Dual RISC-V cores named: Hazard3 designed in-house by Luke Wren
 * Possible to switch from one core to another
@@ -17,6 +17,16 @@ The only disadvantage which is the last point in the above, has been overcome by
 <p align="center"><img src="https://github.com/user-attachments/assets/75e6e8fb-8b5e-4791-bd3f-c9c389335263"width="234"height="540">
      <img src="https://github.com/user-attachments/assets/8dababa9-bcb2-410d-922d-98e4ab078652"width="234"height="540">
            <img src="https://github.com/user-attachments/assets/05f1e72b-67bb-441f-891d-e06bb1d485af"width="234"height="540"></p>
+
+## Experiment on Dormant State of Raspberry Pi Pico 2
+The hardware circuit diagram to carry out the study on the Dormant mode of Raspberry Pi Pico 2 is shown below:<br>
+[Maxmilian Gerhardt work is the motivation](https://github.com/earlephilhower/arduino-pico/issues/2528)
+<p align="center"><img src="https://github.com/user-attachments/assets/ef1d2933-f4c9-4c3b-a1cc-de8d4fa38954"width="360"height="540">
+
+
+The Arduino program is attched as a file in this repository: Rasp_Pi_Pico_2_DOR_ARD.ino
+
+
 
 
 
