@@ -36,7 +36,8 @@ Photographs of the experimental circuit and current measured by DMM are shown be
 
 > [!NOTE]
 I could not get the Schottky diode (PMEG8010ELR) mentioned in Raspberry Pi Pico2 Datasheet.<br>
-The datasheet mentions that this diode is must. In my case I have powered the board using [external USB power bank](https://github.com/DrKRR/Build-Your-own-Power-Bank-for-your-Travel-and-IoT-Projects)
+The datasheet mentions that this diode is must [Ref:Page 17](https://datasheets.raspberrypi.com/pico/pico-2-datasheet.pdf).<br>
+In my case I have powered the board using [external USB power bank](https://github.com/DrKRR/Build-Your-own-Power-Bank-for-your-Travel-and-IoT-Projects)
 
 
 
