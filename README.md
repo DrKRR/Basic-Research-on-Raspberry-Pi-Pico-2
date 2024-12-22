@@ -24,7 +24,10 @@ The hardware circuit diagram to carry out the study on the Dormant mode of Raspb
 <p align="center"><img src="https://github.com/user-attachments/assets/ef1d2933-f4c9-4c3b-a1cc-de8d4fa38954"width="450"height="540">
 
 
-The Arduino program is attched as a file in this repository: Rasp_Pi_Pico_2_DOR_Test.ino
+Before opening the Arduino IDE, it is a good idea to erase the on-chip flash of RP2350 (May be perhaps it would have been used for MicroPython program development). Connect the Raspberry Pi Pico 2 board to the computer. Once the board is connected to the computer via USB cable, a RP2350 drive (d:) appears on the screen with a couple of files. To erase the flash drag and drop the file: flash_nuke.uf2[(REF)](https://raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory). Automatically, erase takes place with a momentary transition of the monitor screen. Now, open the Arduino IDE and go to the Files menu and select Preferences. Add to the [path](https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json). Go to the Tools and select the Boards Manager. Select Raspberry pi Pico 2. Select the COM port to which the board is connected. Load the Arduino program that is attched as a file in this repository (***Rasp_Pi_Pico_2_DOR_Test.ino***). Verify/Compile the file without errors. Now load the program on to the Pico 2 board. Successful program execution will show the following screen shot:<br>
+<p align="center"><image src="https://github.com/user-attachments/assets/41389e1e-f05c-47e8-ba72-f85800abb8b3"width="720"height="540">
+
+
 
 
 
