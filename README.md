@@ -28,6 +28,9 @@ Before opening the Arduino IDE, it is a good idea to erase the on-chip flash of 
 <p align="center"><image src="https://github.com/user-attachments/assets/41389e1e-f05c-47e8-ba72-f85800abb8b3"width="720"height="540">
 
 Photographs of the experimental circuit and current measured by DMM are shown below, and the measured experimental currents drawn by the RPi2 board with 5V and 3.3V connected to V<sub>SYS</sub> are given in the following tables:<br>
+(a). Before entry of DORMANT MODE with HELLO_LED blinking<br>
+(b). After entry of DORMANT MODE with HELLO_LED off and LED_BUILTIN on<br>
+(c). After entry of DORMANT Mode, all LEDs OFF<br>
 <p align="center"><img src="https://github.com/user-attachments/assets/5d39b2af-07ad-4b79-a898-c9e6ae97706a"width="360"height="540">
      <img src="https://github.com/user-attachments/assets/e00df3a3-115c-4915-8801-a628c42f3944"width="360"height="540"></p>
 
