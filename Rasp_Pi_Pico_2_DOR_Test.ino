@@ -6,7 +6,7 @@
 int buttonState;
 
 void setup() {
-  Serial1.begin(9600);
+  //Serial1.begin(9600);
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(HELLO_LED, OUTPUT);
   digitalWrite(LED_BUILTIN, LOW);
